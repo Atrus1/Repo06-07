@@ -1,0 +1,38 @@
+h1{
+  text-align: center;
+  padding-top: 15px;
+  margin-top: 0;
+  position: sticky;
+}
+h1 {
+ font-size: 20px;
+ font-family: sans-serif;
+ }
+
+div.gallery {
+margin: 160px;
+border: 0px solid #ccc;
+float: left;
+width: auto;
+line-height:100%;
+padding-top: 0px;
+position: sticky;
+}
+
+div.gallery img {
+width: 300px;
+height: 250px;
+top: 100px;
+position: sticky;
+
+}
+
+div.desc {
+padding: auto;
+text-align: left;
+height: 0px;
+width: 300px;
+word-wrap: normal;
+position: sticky;
+
+}
